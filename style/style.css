@@ -1,0 +1,384 @@
+header {
+    background-color: rgb(36, 40, 43);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    border-bottom:rgb(0, 153, 255) 5px ;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  
+}
+
+
+
+.div1{
+    display: flex;
+    font-size: 40px;
+    margin-left: 130px;
+}
+
+.p1{
+    color: rgb(0, 153, 255);
+    margin-left: 10px;
+}
+.p2{
+    color: white;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+
+}
+
+nav{
+    margin-right: 200px;
+}
+
+h1{
+    position: relative;
+    z-index: auto;
+    top: 10px;
+}
+
+  
+
+.div3{
+    background-image:url(/assets/cabecera.jpg);
+    height: 450px;
+    background-position-y: -400px;
+  
+
+    
+}
+
+.div4{
+    color:white ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+  
+    
+}
+
+.titulo1{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.centrar{
+    margin-top: 50px;
+}
+
+.p3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(36, 40, 43);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.titulo2{
+    color: white;
+    margin-left: 150px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.centrar1{
+    margin-right: 150px;
+
+}
+.button1{
+    padding: 10px 20px;
+    background-color: rgb(255, 87, 51);
+    color: white;
+    border: none;
+}
+
+.casilla{
+    padding: 10px 20px;
+}
+
+.centrar2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.centrar2 img{
+    width: 100px;
+    height: 100px;
+}
+
+.logo1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+footer{
+    background-color: rgb(0, 155, 219);
+    padding: 20px ;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 30px;
+}
+
+
+a:hover{
+    color: rgb(0, 153, 255);
+}
+
+.div5{
+    display: flex;
+    flex-direction: column;
+    margin-left: 130px;
+    
+}
+
+.titulo3{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+.p4{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.div6{
+    display: flex;
+    flex-direction: column;
+    margin-left: 130px;
+    background-color: rgb(47, 62, 70);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px ;
+}
+
+.div6 p{
+    color: white;
+    margin-left: 20px;
+}
+
+.img1{
+    margin-left: 130px;
+    margin-top: 20px;
+}
+
+.caja{
+    background-color: rgb(47, 62, 70) ;
+    color: white;
+    display: flex;
+    float: right;
+    width: 320px;
+    flex-direction: column;
+    margin-right: 350px;
+    margin-top: -200px;
+    height: 250px;
+
+
+}
+.caja p{
+    font-size: 18px;
+    font-weight: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+.caja h2{
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.div7 input{
+  width: 210px;
+}
+
+.div7{
+    margin-right: 80px;
+}
+
+.div8{
+    background-color: #E6E6E6;
+    border-color: #E6E6E6;
+    border: solid #E6E6E6 10px;
+    width: 850px;
+    height: 200px;
+    margin-left: 130px;
+    
+}
+
+.div9{
+    background-color: #E6E6E6;
+    border-color: #E6E6E6;
+    border: solid #E6E6E6 10px;
+    margin-top: 20px;
+    width: 850px;
+    height: 200px;
+    margin-left: 130px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div10{
+    background-color: #E6E6E6;
+    border-color: #E6E6E6;
+    border: solid #E6E6E6 10px;
+    margin-top: 10px;
+    width: 850px;
+    height: 200px;
+    margin-left: 130px;
+    font-size: 20px;
+
+}
+
+.titulo4{
+    margin-left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.div8 p {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.div9 p {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.div10 p {
+
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.div8  h2 {
+    margin-left: 20px;
+
+}
+
+.div9 h2 {
+    margin-left: 20px;
+
+}
+
+.div10 h2 {
+    margin-left: 20px;
+}
+
+.div11{
+    margin-top: -70px;
+    margin-right: 70px;
+}
+
+
+.label1{
+    color: #000000;
+}
+
+.formulario{
+    flex-direction: column;
+    display: flex;
+    width: 1000px;
+    margin-left: 130px;
+  
+}
+
+.titulo5{
+    margin-left: 130px;
+}
+
+.formulario input{
+    height: 40px;
+    margin-top: 10px;
+}
+
+textarea{
+    height: 200px;
+}
+
+.formulario button{
+    margin-top: 10px;
+    height: 40px;
+    background-color: #E8491D;
+    color: white;
+    border: none;
+}
+.formulario label{
+    margin-top: 10px;
+}
+
+.caja1{
+    background-color: rgb(47, 62, 70) ;
+    color: white;
+    display: flex;
+    float: right;
+    width: 320px;
+    flex-direction: column;
+    margin-right: 350px;
+    margin-top: -650px;
+    height: 250px;
+}
+
+.caja1 p {
+    font-size: 18px;
+    font-weight: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}
+
+.caja1 h2{
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold
+}
+
+.mapa1{
+    display: flex;
+    width: 320px;
+    flex-direction: column;
+    margin-right: 350px;
+    margin-top: -390px;
+    height: 250px;
+    float: right;
+
+}
